@@ -1,0 +1,12 @@
+{
+"database connection": 
+	{"host": "localhost", 
+	"port": 3306, 
+	"user": "<your db username here>", 
+	"password": "<your db password here>", 
+	"database": "<name of DB to access>"}, 
+"update frequency": 180, 
+"verbose": 1, 
+"pool size": 1, 
+"track user path": "D:\\Python\\Twitter\\livetrack\\users.txt"
+}
